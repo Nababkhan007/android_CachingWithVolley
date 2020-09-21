@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyCache</string>
+    <string name="greeting_message">Hello, caching with volley!</string>
+</resources>
